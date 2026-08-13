@@ -6,7 +6,7 @@
     
     <!-- Primary SEO Meta Tags -->
     <title>Mahadev Enterprises | Premier Services in Miyapur, Hyderabad</title>
-    <meta name="description" content="Contact Mahadev Enterprises in Miyapur, Hyderabad. Quality services located opposite BK Enclave, near Tata Motors. Call or WhatsApp us today!">
+    <meta name="description" content="Welcome to Mahadev Enterprises in Miyapur, Hyderabad. We provide top-quality solutions and services located opposite BK Enclave, near Tata Motors. Call or WhatsApp us today!">
     <meta name="keywords" content="Mahadev Enterprises, Miyapur, Hyderabad, Tata Motors Showroom Miyapur, Krishnaja Hills">
     <meta name="robots" content="index, follow">
 
@@ -14,6 +14,7 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="Mahadev Enterprises | Miyapur, Hyderabad">
     <meta property="og:description" content="Connect with Mahadev Enterprises via WhatsApp, phone, or find us on Google Maps.">
+    <meta property="og:image" content="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80">
     
     <!-- Structured Data (LocalBusiness Schema for Google SEO) -->
     <script type="application/ld+json">
@@ -22,6 +23,8 @@
       "@type": "LocalBusiness",
       "name": "Mahadev Enterprises",
       "telephone": "+919024340520",
+      "description": "Mahadev Enterprises is a trusted service provider based in Miyapur, Hyderabad, dedicated to delivering reliable solutions with exceptional customer support.",
+      "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80",
       "address": {
         "@type": "PostalAddress",
         "streetAddress": "Survey No 44, Plot No 22, B, Opp. BK Enclave, Krishnaja Hills, Miyapur (Near Tata Motors Cars Showroom - Select Cars)",
@@ -60,10 +63,11 @@
             padding-bottom: 70px; /* Space for fixed mobile navigation */
         }
 
+        /* Header Navigation */
         header {
             background: var(--primary-color);
             color: white;
-            padding: 1.5rem 1rem;
+            padding: 1.2rem 1rem;
             text-align: center;
             box-shadow: 0 4px 6px rgba(0,0,0,0.1);
         }
@@ -76,6 +80,53 @@
         header p {
             font-size: 0.95rem;
             opacity: 0.9;
+        }
+
+        /* Hero Image Banner Section */
+        .hero {
+            position: relative;
+            background: linear-gradient(rgba(11, 37, 69, 0.7), rgba(11, 37, 69, 0.7)), 
+                        url('https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=1200&q=80') center/cover no-repeat;
+            color: white;
+            padding: 3.5rem 1.5rem;
+            text-align: center;
+            border-bottom: 4px solid var(--accent-color);
+        }
+
+        .hero-content {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .hero h2 {
+            font-size: 2rem;
+            margin-bottom: 0.75rem;
+            font-weight: 700;
+        }
+
+        .hero p {
+            font-size: 1.05rem;
+            margin-bottom: 1.5rem;
+            opacity: 0.95;
+            line-height: 1.5;
+        }
+
+        .hero-btn {
+            display: inline-block;
+            background-color: var(--accent-color);
+            color: white;
+            padding: 0.85rem 1.8rem;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1rem;
+            box-shadow: 0 4px 12px rgba(37, 211, 102, 0.4);
+            transition: transform 0.2s, background-color 0.2s;
+        }
+
+        .hero-btn:hover {
+            transform: translateY(-2px);
+            background-color: #1ebc57;
         }
 
         .container {
@@ -225,7 +276,24 @@
         <p>Miyapur, Hyderabad, Telangana</p>
     </header>
 
+    <!-- Hero Section with Background Image & Business Description -->
+    <section class="hero">
+        <div class="hero-content">
+            <h2>Welcome to Mahadev Enterprises</h2>
+            <p>Your trusted local partner in Miyapur, Hyderabad. We deliver reliable, high-quality service solutions tailored to your needs with maximum efficiency and client satisfaction.</p>
+            <a href="#enquire" class="hero-btn">Get Quick Assistance</a>
+        </div>
+    </section>
+
     <div class="container">
+
+        <!-- Business About / Description Card -->
+        <div class="card">
+            <h2>ℹ️ About Mahadev Enterprises</h2>
+            <p style="font-size:0.95rem; color:#444; line-height:1.6;">
+                Located conveniently at Krishnaja Hills in Miyapur (opposite BK Enclave and near Select Cars Tata Motors Showroom), <strong>Mahadev Enterprises</strong> is committed to excellence and fast service turnaround. Whether you need direct assistance, project consultations, or local inquiries, our team is readily available via phone or WhatsApp.
+            </p>
+        </div>
 
         <!-- Quick Connect Actions -->
         <div class="card">
