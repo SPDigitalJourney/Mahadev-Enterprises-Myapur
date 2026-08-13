@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- SEO Meta Tags -->
+  <title>Balaji Chimney Hub | Premium Kitchen Chimneys & Appliances in Hyderabad</title>
+  <meta name="description" content="Balaji Chimney Hub offers modern, high-quality kitchen chimneys and appliances in Prem Nagar, Hafeezpet, Hyderabad. Visit us or call 072969 72460 for durable cooking solutions.">
+  <meta name="keywords" content="Kitchen Chimney Hyderabad, Balaji Chimney Hub, Hafeezpet Kitchen Appliances, Modern Chimneys Prem Nagar">
+  <meta name="robots" content="index, follow">
+
+  <!-- Open Graph / Social Media Meta -->
+  <meta property="og:title" content="Balaji Chimney Hub - Kitchen Appliances Specialist">
+  <meta property="og:description" content="Discover powerful, modern kitchen chimneys and appliances in Hafeezpet, Hyderabad. Direct sales, installation, and service.">
+  <meta property="og:type" content="business.business">
+  <meta property="og:url" content="https://share.google/z3YJZ9OUq7nwI4Rlj">
+
+  <!-- Structured Data (JSON-LD) for Local SEO & AI Crawlers -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Balaji Chimney Hub",
+    "image": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=800&q=80",
+    "description": "Balaji Chimney Hub is your premier destination for modern, powerful kitchen chimneys and appliances, providing durable and efficient cooking solutions.",
+    "telephone": "072969 72460",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Street No.14, New Hafeezpet, Prem Nagar, Hafeezpet",
+      "addressLocality": "Hyderabad",
+      "addressRegion": "Telangana",
+      "postalCode": "500084",
+      "addressCountry": "IN"
+    },
+    "url": "https://share.google/z3YJZ9OUq7nwI4Rlj",
+    "sameAs": [
+      "https://wa.me/917296972460",
+      "https://g.page/r/CZUQMOuw2MhPEBM/review"
+    ],
+    "priceRange": "₹₹"
+  }
+  </script>
+
+  <style>
+    :root {
+      --primary-color: #d9381e;
+      --secondary-color: #1a1a1a;
+      --accent-color: #25d366;
+      --bg-light: #f8f9fa;
+      --text-color: #333333;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+    body { color: var(--text-color); line-height: 1.6; background-color: #fff; }
+
+    header {
+      background-color: var(--secondary-color);
+      color: #fff;
+      padding: 1rem 5%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+
+    .logo-text { font-size: 1.5rem; font-weight: bold; color: #fff; }
+    .logo-text span { color: var(--primary-color); }
+
+    .btn-call {
+      background: var(--primary-color);
+      color: white;
+      padding: 0.5rem 1.2rem;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+
+    .hero {
+      background: linear-gradient(rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url('https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=1500&q=80') center/cover;
+      color: white;
+      text-align: center;
+      padding: 5rem 1rem;
+    }
+
+    .hero h1 { font-size: 2.8rem; margin-bottom: 1rem; }
+    .hero p { font-size: 1.2rem; max-width: 700px; margin: 0 auto 1.5rem; }
+
+    .container { width: 90%; max-width: 1100px; margin: 2rem auto; }
+    
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; }
+
+    .card {
+      background: var(--bg-light);
+      padding: 1.5rem;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+      border-left: 4px solid var(--primary-color);
+    }
+
+    /* Lead Form Styling */
+    .lead-form-section {
+      background: #fff;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      margin-top: 2rem;
+    }
+
+    .form-group { margin-bottom: 1rem; }
+    .form-group label { display: block; margin-bottom: 0.5rem; font-weight: bold; }
+    .form-group input, .form-group select, .form-group textarea {
+      width: 100%; padding: 0.8rem; border: 1px solid #ccc; border-radius: 5px;
+    }
+
+    .btn-submit {
+      width: 100%; background: var(--accent-color); color: white; border: none;
+      padding: 1rem; font-size: 1.1rem; font-weight: bold; border-radius: 5px;
+      cursor: pointer; transition: background 0.3s;
+    }
+
+    .btn-submit:hover { background: #1eb954; }
+
+    /* Ask AI / Interactive FAQ Styling */
+    .ai-assistant {
+      background: #eef4ff;
+      border: 1px solid #cce0ff;
+      padding: 1.5rem;
+      border-radius: 8px;
+      margin-top: 2rem;
+    }
+
+    .ai-response {
+      background: #fff;
+      padding: 1rem;
+      border-radius: 5px;
+      margin-top: 1rem;
+      display: none;
+      border-left: 3px solid #0056b3;
+    }
+
+    /* Floating WhatsApp Button */
+    .whatsapp-float {
+      position: fixed; bottom: 20px; right: 20px;
+      background: var(--accent-color); color: white;
+      padding: 1rem; border-radius: 50px; text-decoration: none;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.2); font-weight: bold;
+      z-index: 1000; display: flex; align-items: center; gap: 8px;
+    }
+
+    footer { background: var(--secondary-color); color: white; text-align: center; padding: 1.5rem; margin-top: 3rem; }
+    footer a { color: #fff; margin: 0 10px; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="logo-text">Balaji <span>Chimney Hub</span></div>
+    <a href="tel:07296972460" class="btn-call">📞 Call 072969 72460</a>
+  </header>
+
+  <section class="hero">
+    <h1>Transform Your Kitchen Experience</h1>
+    <p>Premier destination for high-quality, modern, and powerful kitchen chimneys in Hafeezpet, Hyderabad.</p>
+    <a href="#lead-form" class="btn-call" style="background: var(--accent-color);">Request Free Callback</a>
+  </section>
+
+  <div class="container">
+    
+    <!-- Highlights Grid -->
+    <div class="grid">
+      <div class="card">
+        <h3>Modern Designs</h3>
+        <p>Choose from a wide selection of sleek, energy-efficient, and contemporary kitchen chimneys designed to match modern home aesthetics.</p>
+      </div>
+      <div class="card">
+        <h3>Powerful Suction</h3>
+        <p>Keep your kitchen clean, smoke-free, and oil-free with high-capacity suction technology tailored for heavy cooking needs.</p>
+      </div>
+      <div class="card">
+        <h3>Local Sales & Support</h3>
+        <p>Located conveniently in Prem Nagar, Hafeezpet. Dedicated customer care, installation assistance, and long-lasting durability.</p>
+      </div>
+    </div>
+
+    <!-- AI Helper / Ask AI Search Widget -->
+    <section class="ai-assistant">
+      <h2>🤖 Ask AI Assistant</h2>
+      <p>Select a quick query below to get instant answers about our kitchen appliances:</p>
+      <div style="margin-top: 10px;">
+        <button onclick="askAI('location')" style="padding: 0.5rem 1rem; margin: 4px; cursor:pointer;">Where are you located?</button>
+        <button onclick="askAI('products')" style="padding: 0.5rem 1rem; margin: 4px; cursor:pointer;">What products do you offer?</button>
+        <button onclick="askAI('contact')" style="padding: 0.5rem 1rem; margin: 4px; cursor:pointer;">How can I contact sales?</button>
+      </div>
+      <div id="aiResponse" class="ai-response"></div>
+    </section>
+
+    <!-- Lead Capture Section -->
+    <section class="lead-form-section" id="lead-form">
+      <h2>Enquire / Request a Free Quote</h2>
+      <p>Fill out the form below and send your query straight to our WhatsApp team for instant response.</p>
+      <br>
+      <form id="whatsappForm" onsubmit="sendToWhatsApp(event)">
+        <div class="form-group">
+          <label for="name">Your Name</label>
+          <input type="text" id="name" placeholder="Enter full name" required>
+        </div>
+        <div class="form-group">
+          <label for="phone">Phone Number</label>
+          <input type="tel" id="phone" placeholder="Enter contact number" required>
+        </div>
+        <div class="form-group">
+          <label for="requirement">Requirement</label>
+          <select id="requirement">
+            <option>New Kitchen Chimney Purchase</option>
+            <option>Chimney Installation / Uninstallation</option>
+            <option>Maintenance & Service</option>
+            <option>General Inquiry</option>
+          </select>
+        </div>
+        <button type="submit" class="btn-submit">💬 Submit via WhatsApp</button>
+      </form>
+    </section>
+
+    <!-- Map & Directions Section -->
+    <section style="margin-top: 3rem;">
+      <h2>📍 Visit Our Store in Hyderabad</h2>
+      <p><strong>Address:</strong> Street No.14, New Hafeezpet, Prem Nagar, Hafeezpet, Hyderabad, Telangana 500084</p>
+      <p style="margin-bottom: 1rem;"><strong>Phone:</strong> <a href="tel:07296972460">072969 72460</a></p>
+      
+      <div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 1rem;">
+        <a href="https://share.google/z3YJZ9OUq7nwI4Rlj" target="_blank" class="btn-call" style="background:#4285F4;">🗺️ Open in Google Maps</a>
+        <a href="https://g.page/r/CZUQMOuw2MhPEBM/review" target="_blank" class="btn-call" style="background:#f4b400; color:#000;">⭐ Leave Us a Review</a>
+      </div>
+
+      <!-- Map Embed Container -->
+      <div style="width: 100%; height: 350px; background: #e0e0e0; border-radius: 8px; display: flex; align-items: center; justify-content: center;">
+        <iframe 
+          title="Balaji Chimney Hub Location Map"
+          src="https://maps.google.com/maps?q=Street%20No.14,%20New%20Hafeezpet,%20Prem%20Nagar,%20Hafeezpet,%20Hyderabad,%20Telangana%20500084&t=&z=15&ie=UTF8&iwloc=&output=embed" 
+          width="100%" 
+          height="100%" 
+          style="border:0; border-radius: 8px;" 
+          allowfullscreen="" 
+          loading="lazy">
+        </iframe>
+      </div>
+    </section>
+
+  </div>
+
+  <!-- Floating WhatsApp CTA -->
+  <a href="https://wa.me/917296972460" class="whatsapp-float" target="_blank">
+    💬 WhatsApp Us
+  </a>
+
+  <footer>
+    <p>&copy; 2026 Balaji Chimney Hub. All Rights Reserved.</p>
+    <p style="font-size: 0.85rem; margin-top: 5px;">
+      <a href="https://share.google/z3YJZ9OUq7nwI4Rlj" target="_blank">Find Us on Google</a> | 
+      <a href="https://g.page/r/CZUQMOuw2MhPEBM/review" target="_blank">Customer Reviews</a>
+    </p>
+  </footer>
+
+  <script>
+    // Lead Form to WhatsApp Function
+    function sendToWhatsApp(event) {
+      event.preventDefault();
+      const name = document.getElementById('name').value;
+      const phone = document.getElementById('phone').value;
+      const requirement = document.getElementById('requirement').value;
+
+      const message = `Hello Balaji Chimney Hub,%0A%0A*New Lead Request:*%0A- *Name:* ${encodeURIComponent(name)}%0A- *Phone:* ${encodeURIComponent(phone)}%0A- *Requirement:* ${encodeURIComponent(requirement)}`;
+      
+      const whatsappURL = `https://wa.me/917296972460?text=${message}`;
+      window.open(whatsappURL, '_blank');
+    }
+
+    // AI Helper Simulated Responses
+    function askAI(queryType) {
+      const respBox = document.getElementById('aiResponse');
+      respBox.style.display = 'block';
+
+      if (queryType === 'location') {
+        respBox.innerHTML = "<strong>AI Response:</strong> Balaji Chimney Hub is located at Street No.14, New Hafeezpet, Prem Nagar, Hafeezpet, Hyderabad, Telangana 500084.";
+      } else if (queryType === 'products') {
+        respBox.innerHTML = "<strong>AI Response:</strong> We specialize in high-quality kitchen chimneys, modern designs, and powerful suction models engineered for smoke-free cooking.";
+      } else if (queryType === 'contact') {
+        respBox.innerHTML = "<strong>AI Response:</strong> You can reach us directly at <strong>072969 72460</strong> or click the WhatsApp button to chat instantly!";
+      }
+    }
+  </script>
+</body>
+</html>
